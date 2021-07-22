@@ -1,0 +1,4 @@
+{
+  "extends": "airbnb-typescript-prettier",
+  "rules": { "one-var": "off", "no-unused-expressions": "off" }
+}
